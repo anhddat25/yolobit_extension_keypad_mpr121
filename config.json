@@ -1,0 +1,19 @@
+{
+    "id": "YoloBitKeypadMPR121Extention",
+    "extensionDisplay": {
+        "name": "gui.externalExtension.YoloBitKeypadMPR121xtension.name",
+        "iconURL": "/images/keypad001.png",
+        "insetIconURL": "/images/ntp001.png",
+        "description": "gui.externalExtension.YoloBitKeypadMPR121xtension.description"
+    },
+    "translate": {
+        "vi": {
+            "gui.externalExtension.YoloBitKeypadMPR121xtension.name": "KeypadMPR121",
+            "gui.externalExtension.YoloBitKeypadMPR121xtension.description": "Mục mở rộng cho bàn phím cảm ứng MPR121"
+        },
+        "en": {
+            "gui.externalExtension.YoloBitKeypadMPR121xtension.name": "KeypadMPR121",
+            "gui.externalExtension.YoloBitKeypadMPR121xtension.description": "KeypadMPR121 extension for Yolo:Bit"
+        }
+    }
+}
